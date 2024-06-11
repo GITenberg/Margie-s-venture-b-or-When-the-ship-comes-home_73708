@@ -1,0 +1,36 @@
+_repo: Margie-s-venture-b-or-When-the-ship-comes-home_73708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ropes, Mary E. (Mary Emily)
+    aliases:
+    - Ropes, M. E. (Mary Emily)
+    - Ropes, Mary Emily
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '57192'
+    url: http://www.gutenberg.org/2009/agents/57192
+description: ''
+gutenberg_issued: '2024-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73708'
+language: en
+pgterms:marc905: 20240521052159ropes
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Sunday School Union, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Margie''s venture : $b or, When the ship comes home'
+url: http://www.gutenberg.org/ebooks/73708
